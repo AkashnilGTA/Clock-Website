@@ -11,6 +11,6 @@ You can use any hosting platform to set it up.
 # Quick Links
 Netlify: https://www.netlify.com/
 Replit Profile: https://replit.com/@Akashnil
-Visual Studio: https://code.visualstudio.com/
+Visual Studio Code: https://code.visualstudio.com/
 # 
 A little project made by me.
